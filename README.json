@@ -1,0 +1,365 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T05:05:25Z",
+            "owner": "appium",
+            "repo": "python-client",
+            "stars": 1839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T11:03:03Z",
+            "owner": "appium",
+            "repo": "java-client",
+            "stars": 1280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobotFramework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T13:32:17Z",
+            "owner": "serhatbolsu",
+            "repo": "robotframework-appiumlibrary",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# (.NET)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:24:54Z",
+            "owner": "appium",
+            "repo": "dotnet-client",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T11:37:13Z",
+            "owner": "appium",
+            "repo": "ruby_lib",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Objective C",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-02-03T04:57:43Z",
+            "owner": "appium-boneyard",
+            "repo": "selenium-objective-c",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-09-19T15:58:15Z",
+            "owner": "appium-boneyard",
+            "repo": "php-client",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appium Desktop",
+          "description": "Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-12T21:04:14Z",
+            "owner": "appium",
+            "repo": "appium-desktop",
+            "stars": 4811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebDriverAgent Inspector",
+          "description": "A WebDriver server for iOS that runs inside the Simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2019-12-26T02:25:02Z",
+            "owner": "facebookarchive",
+            "repo": "WebDriverAgent",
+            "stars": 4260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "app-inspector",
+          "description": "Macacajs App Inspector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-06T11:25:28Z",
+            "owner": "macacajs",
+            "repo": "app-inspector",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium iOS Inspector",
+          "description": "The tool for iOS elements location based on the original source of Selendroid Inspector.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-10T18:53:51Z",
+            "owner": "mykola-mokhnach",
+            "repo": "Appium-iOS-Inspector",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Inspectors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appium Docker Images",
+          "description": "DockerFile for Appium Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T23:04:06Z",
+            "owner": "budtmo",
+            "repo": "docker-android",
+            "stars": 15701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Appium Docker Images",
+          "description": "DockerFile for Appium Android Real Devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-04T12:46:13Z",
+            "owner": "appium",
+            "repo": "appium-docker-android",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Tests in OpenSTF Device Farm",
+          "description": "Sample Appium tests runs on STF Device Farm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-11-22T03:37:31Z",
+            "owner": "openstf",
+            "repo": "stf-appium-example",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Tests in AWS Device Farm",
+          "description": "Sample Appium tests runs on AWS Device Farm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-14T19:37:19Z",
+            "owner": "aws-samples",
+            "repo": "aws-device-farm-appium-tests-for-sample-app",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Docker File",
+          "description": "DockerFile for Appium Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-21T12:48:57Z",
+            "owner": "softsam",
+            "repo": "docker-appium",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Docker File",
+          "description": "DockerFile for Appium Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-09-29T09:02:27Z",
+            "owner": "aluedeke",
+            "repo": "appium-android",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Cloud and Docker Solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parallel Framework Java-Client",
+          "description": "Run appium tests in parallel across iOS and Android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-23T18:55:25Z",
+            "owner": "AppiumTestDistribution",
+            "repo": "AppiumTestDistribution",
+            "stars": 1040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageObject Pattern Framework",
+          "description": "Sample Page Object Pattern Framework to use directly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-10T08:04:17Z",
+            "owner": "AppiumTestDistribution",
+            "repo": "PageObjectPatternAppium",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coteafs-appium",
+          "description": "A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-08-17T16:11:45Z",
+            "owner": "WasiqB",
+            "repo": "coteafs-appium",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium-Native-Crawler",
+          "description": "Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-06-30T21:27:09Z",
+            "owner": "isonic1",
+            "repo": "Appium-Native-Crawler",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Cucumber Test",
+          "description": "Sample Appium Cucumber Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-16T04:47:33Z",
+            "owner": "priyankshah217",
+            "repo": "AppiumCucumberTest",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimus",
+          "description": "Cucumber based Mobile Automation Framework, which supports test parallelization.",
+          "children": []
+        }
+      ],
+      "title": "Test Frameworks"
+    },
+    {
+      "description": "Contribute some ;)",
+      "items": [],
+      "title": "Tips"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Srinivasan Sekar has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:40.033Z",
+    "original_repository": "SrinivasanTarget/awesome-appium",
+    "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
+    "enhanced_repository": "enhansome/enhansome-appium",
+    "enhanced_repository_description": null,
+    "title": "Awesome Appium with stars"
+  }
+}
