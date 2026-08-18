@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:04:44Z",
+            "last_commit": "2026-08-18T13:19:46Z",
             "owner": "appium",
             "repo": "python-client",
             "stars": 1839
@@ -118,7 +118,7 @@
             "last_commit": "2023-04-12T21:04:14Z",
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4809
+            "stars": 4808
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2019-12-26T02:25:02Z",
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4260
+            "stars": 4258
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-02-06T11:25:28Z",
             "owner": "macacajs",
             "repo": "app-inspector",
-            "stars": 390
+            "stars": 389
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15739
+            "stars": 15751
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:00:12.687Z",
+    "last_updated": "2026-08-18T16:11:46.832Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
     "enhanced_repository": "enhansome/enhansome-appium",
