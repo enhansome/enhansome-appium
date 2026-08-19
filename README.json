@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18525395,
             "language": "Python",
             "last_commit": "2026-08-18T13:19:46Z",
             "owner": "appium",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18454064,
             "language": "Java",
-            "last_commit": "2026-08-10T11:03:03Z",
+            "last_commit": "2026-08-19T09:33:09Z",
             "owner": "appium",
             "repo": "java-client",
             "stars": 1280
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20088879,
             "language": "Python",
             "last_commit": "2026-03-10T13:32:17Z",
             "owner": "serhatbolsu",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18766821,
             "language": "C#",
             "last_commit": "2026-08-12T20:24:54Z",
             "owner": "appium",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8938683,
             "language": "Ruby",
             "last_commit": "2026-08-10T11:37:13Z",
             "owner": "appium",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8767842,
             "language": "Objective-C",
             "last_commit": "2016-02-03T04:57:43Z",
             "owner": "appium-boneyard",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18918214,
             "language": "PHP",
             "last_commit": "2018-09-19T15:58:15Z",
             "owner": "appium-boneyard",
@@ -105,7 +112,7 @@
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63558084,
             "language": "JavaScript",
             "last_commit": "2023-04-12T21:04:14Z",
             "owner": "appium",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41855272,
             "language": "Objective-C",
             "last_commit": "2019-12-26T02:25:02Z",
             "owner": "facebookarchive",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65036318,
             "language": "JavaScript",
             "last_commit": "2023-02-06T11:25:28Z",
             "owner": "macacajs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62312998,
             "language": "JavaScript",
             "last_commit": "2019-05-10T18:53:51Z",
             "owner": "mykola-mokhnach",
@@ -167,7 +178,7 @@
       "title": "Inspectors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77145066,
             "language": "Python",
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15751
+            "stars": 15753
           }
         },
         {
@@ -190,8 +202,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70919152,
             "language": "Shell",
-            "last_commit": "2026-08-04T12:46:13Z",
+            "last_commit": "2026-08-19T05:14:08Z",
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 670
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55916787,
             "language": "Ruby",
             "last_commit": "2017-11-22T03:37:31Z",
             "owner": "openstf",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40384765,
             "language": "Java",
             "last_commit": "2024-02-14T19:37:19Z",
             "owner": "aws-samples",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39765777,
             "language": null,
             "last_commit": "2015-08-21T12:48:57Z",
             "owner": "softsam",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24585946,
             "language": "Shell",
             "last_commit": "2014-09-29T09:02:27Z",
             "owner": "aluedeke",
@@ -257,7 +274,7 @@
       "title": "Cloud and Docker Solutions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40982931,
             "language": "Java",
             "last_commit": "2026-03-23T18:55:25Z",
             "owner": "AppiumTestDistribution",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41345483,
             "language": "JavaScript",
             "last_commit": "2023-05-10T08:04:17Z",
             "owner": "AppiumTestDistribution",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88191647,
             "language": "Java",
             "last_commit": "2022-08-17T16:11:45Z",
             "owner": "WasiqB",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138041497,
             "language": "Ruby",
             "last_commit": "2019-06-30T21:27:09Z",
             "owner": "isonic1",
@@ -322,41 +343,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24857068,
             "language": "Java",
             "last_commit": "2021-03-16T04:47:33Z",
             "owner": "priyankshah217",
             "repo": "AppiumCucumberTest",
             "stars": 37
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Optimus",
-          "description": "Cucumber based Mobile Automation Framework, which supports test parallelization.",
-          "children": []
         }
       ],
       "title": "Test Frameworks"
-    },
-    {
-      "description": "Contribute some ;)",
-      "items": [],
-      "title": "Tips"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Srinivasan Sekar has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:11:46.832Z",
+    "last_updated": "2026-08-19T12:15:04.305Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
+    "original_repository_id": 64320099,
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
     "enhanced_repository": "enhansome/enhansome-appium",
     "enhanced_repository_description": null,
