@@ -126,7 +126,7 @@
             "last_commit": "2023-04-12T21:04:14Z",
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4808
+            "stars": 4807
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15753
+            "stars": 15754
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:04.305Z",
+    "last_updated": "2026-08-19T16:12:04.653Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
     "original_repository_id": 64320099,
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
