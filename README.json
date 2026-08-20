@@ -27,7 +27,7 @@
             "archived": false,
             "id": 18454064,
             "language": "Java",
-            "last_commit": "2026-08-19T09:33:09Z",
+            "last_commit": "2026-08-19T16:59:00Z",
             "owner": "appium",
             "repo": "java-client",
             "stars": 1280
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15754
+            "stars": 15760
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 70919152,
             "language": "Shell",
-            "last_commit": "2026-08-19T05:14:08Z",
+            "last_commit": "2026-08-19T23:48:41Z",
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 670
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:12:04.653Z",
+    "last_updated": "2026-08-20T16:14:54.692Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
     "original_repository_id": 64320099,
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
