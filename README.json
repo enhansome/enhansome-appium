@@ -12,7 +12,7 @@
             "archived": false,
             "id": 18525395,
             "language": "Python",
-            "last_commit": "2026-08-18T13:19:46Z",
+            "last_commit": "2026-08-22T17:27:13Z",
             "owner": "appium",
             "repo": "python-client",
             "stars": 1839
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 18766821,
             "language": "C#",
-            "last_commit": "2026-08-21T16:48:33Z",
+            "last_commit": "2026-08-22T17:19:25Z",
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 399
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15766
+            "stars": 15768
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:59:49.650Z",
+    "last_updated": "2026-08-23T16:00:56.878Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
     "original_repository_id": 64320099,
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
