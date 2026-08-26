@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15775
+            "stars": 15785
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:20:01.665Z",
+    "last_updated": "2026-08-26T16:38:58.469Z",
     "original_repository": "SrinivasanTarget/awesome-appium",
     "original_repository_id": 64320099,
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
