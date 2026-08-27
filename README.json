@@ -57,7 +57,7 @@
             "archived": false,
             "id": 18766821,
             "language": "C#",
-            "last_commit": "2026-08-22T17:19:25Z",
+            "last_commit": "2026-08-26T20:24:27Z",
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 399
@@ -141,7 +141,7 @@
             "last_commit": "2019-12-26T02:25:02Z",
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15785
+            "stars": 15783
           }
         },
         {
@@ -356,9 +356,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:58.469Z",
-    "original_repository": "SrinivasanTarget/awesome-appium",
-    "original_repository_id": 64320099,
+    "last_updated": "2026-08-27T11:24:07.493Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 64320099,
+      "language": null,
+      "last_commit": "2021-09-28T14:59:54Z",
+      "owner": "SrinivasanTarget",
+      "repo": "awesome-appium",
+      "stars": 464
+    },
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
     "enhanced_repository": "enhansome/enhansome-appium",
     "enhanced_repository_description": null,
