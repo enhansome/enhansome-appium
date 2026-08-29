@@ -15,8 +15,8 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T05:19:49Z",
-            "open_issues": 24,
+            "last_commit": "2026-08-29T11:02:47Z",
+            "open_issues": 25,
             "owner": "appium",
             "repo": "python-client",
             "stars": 1839,
@@ -244,7 +244,7 @@
             "open_issues": 39,
             "owner": "macacajs",
             "repo": "app-inspector",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "android",
               "automation",
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15787,
+            "stars": 15793,
             "topics": [
               "alibabacloud",
               "android",
@@ -371,7 +371,7 @@
             "open_issues": 6,
             "owner": "openstf",
             "repo": "stf-appium-example",
-            "stars": 109,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:17.981Z",
+    "last_updated": "2026-08-29T18:55:13.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
