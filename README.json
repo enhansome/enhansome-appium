@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python language bindings for Appium",
+            "homepage": null,
             "id": 18525395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T05:19:49Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1839
+            "stars": 1839,
+            "topics": [
+              "appium",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -26,12 +34,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java language binding for writing Appium Tests, conforms to W3C WebDriver Protocol",
+            "homepage": null,
             "id": 18454064,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:02:46Z",
+            "open_issues": 271,
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1281
+            "stars": 1281,
+            "topics": [
+              "android",
+              "appium",
+              "automation",
+              "ios",
+              "java",
+              "java-client",
+              "macos",
+              "selenium",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -42,12 +65,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AppiumLibrary is an appium testing library for RobotFramework",
+            "homepage": null,
             "id": 20088879,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T13:32:17Z",
+            "open_issues": 28,
             "owner": "serhatbolsu",
             "repo": "robotframework-appiumlibrary",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "appium",
+              "library",
+              "mobile-testing",
+              "python",
+              "robotframework",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -58,12 +94,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET C# bindings for Appium, extending the Selenium .NET library",
+            "homepage": null,
             "id": 18766821,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:43:22Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "appium",
+              "csharp",
+              "dotnet"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -74,12 +119,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":gem: Ruby library for Appium",
+            "homepage": "http://rubygems.org/gems/appium_lib",
             "id": 8938683,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-08-10T11:37:13Z",
+            "open_issues": 1,
             "owner": "appium",
             "repo": "ruby_lib",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "appium",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -90,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Selenium WebDriver Bindings for Objective-C",
+            "homepage": null,
             "id": 8767842,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2016-02-03T04:57:43Z",
+            "open_issues": 13,
             "owner": "appium-boneyard",
             "repo": "selenium-objective-c",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -106,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP client library for Appium",
+            "homepage": null,
             "id": 18918214,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-19T15:58:15Z",
+            "open_issues": 13,
             "owner": "appium-boneyard",
             "repo": "php-client",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         }
@@ -128,12 +191,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Appium Server in Desktop GUIs for Mac, Windows, and Linux",
+            "homepage": null,
             "id": 63558084,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-12T21:04:14Z",
+            "open_issues": 132,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4807
+            "stars": 4807,
+            "topics": [
+              "appium"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -144,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A WebDriver server for iOS that runs inside the Simulator.",
+            "homepage": null,
             "id": 41855272,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-26T02:25:02Z",
+            "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4260
+            "stars": 4260,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -160,12 +235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App-inspector is a mobile UI viewer in browser.",
+            "homepage": "https://macacajs.github.io/app-inspector/",
             "id": 65036318,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-06T11:25:28Z",
+            "open_issues": 39,
             "owner": "macacajs",
             "repo": "app-inspector",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "android",
+              "automation",
+              "inspector",
+              "ios",
+              "macaca",
+              "native"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -176,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 62312998,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-10T18:53:51Z",
+            "open_issues": 4,
             "owner": "mykola-mokhnach",
             "repo": "Appium-iOS-Inspector",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         }
@@ -198,12 +290,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android in docker solution with noVNC supported and video recording",
+            "homepage": null,
             "id": 77145066,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T08:33:13Z",
+            "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15787
+            "stars": 15787,
+            "topics": [
+              "alibabacloud",
+              "android",
+              "android-emulator",
+              "aws",
+              "azure",
+              "cloud",
+              "docker",
+              "docker-android",
+              "emulator",
+              "gcp",
+              "genymotion",
+              "jenkins",
+              "kubernetes",
+              "mobile-app",
+              "mobile-web",
+              "novnc",
+              "saltstack",
+              "selenium",
+              "selenium-grid",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -214,12 +332,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appium Server setup to automate android testing on real devices",
+            "homepage": "https://hub.docker.com/r/appium/",
             "id": 70919152,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T23:55:54Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "appium-docker-android",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "android",
+              "appium",
+              "docker",
+              "docker-android",
+              "docker-appium",
+              "docker-container",
+              "docker-image",
+              "dockerfile"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -230,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Appium test on OpenSTF Device",
+            "homepage": null,
             "id": 55916787,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-11-22T03:37:31Z",
+            "open_issues": 6,
             "owner": "openstf",
             "repo": "stf-appium-example",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -246,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS Device Farm Appium tests",
+            "homepage": null,
             "id": 40384765,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-14T19:37:19Z",
+            "open_issues": 17,
             "owner": "aws-samples",
             "repo": "aws-device-farm-appium-tests-for-sample-app",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -262,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker files for an appium server",
+            "homepage": null,
             "id": 39765777,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-08-21T12:48:57Z",
+            "open_issues": 0,
             "owner": "softsam",
             "repo": "docker-appium",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -278,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appium Server for automated Android testing",
+            "homepage": null,
             "id": 24585946,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2014-09-29T09:02:27Z",
+            "open_issues": 0,
             "owner": "aluedeke",
             "repo": "appium-android",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         }
@@ -300,12 +452,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for running android and iOS appium tests in parallel across devices... U like it STAR it !",
+            "homepage": "https://saikrishna321.github.io/",
             "id": 40982931,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-03-23T18:55:25Z",
+            "open_issues": 45,
             "owner": "AppiumTestDistribution",
             "repo": "AppiumTestDistribution",
-            "stars": 1040
+            "stars": 1040,
+            "topics": [
+              "android",
+              "appium",
+              "appium-ios",
+              "automation",
+              "browserstack",
+              "cloudtesting",
+              "cucumber",
+              "cucumberappium",
+              "mp4box",
+              "parallel",
+              "parallel-computing",
+              "parallel-ios",
+              "parallelappium",
+              "parallelappiumandroid",
+              "parallelappiumios",
+              "saucelabs",
+              "testng"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -316,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Code base to run tests in Parallel across android and iOS devices.",
+            "homepage": null,
             "id": 41345483,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-10T08:04:17Z",
+            "open_issues": 19,
             "owner": "AppiumTestDistribution",
             "repo": "PageObjectPatternAppium",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -332,12 +512,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: Wrapper Appium Framework in Java which supports Automation of Mobile and Tablet apps.",
+            "homepage": "https://wasiqb.github.io/website/projects/coteafs-appium",
             "id": 88191647,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-17T16:11:45Z",
+            "open_issues": 6,
             "owner": "WasiqB",
             "repo": "coteafs-appium",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "android",
+              "appium",
+              "appium-android",
+              "appium-framework",
+              "appium-ios",
+              "appium-java",
+              "appium-tests",
+              "automation",
+              "automation-framework",
+              "automation-test",
+              "framework",
+              "hacktoberfest",
+              "ios",
+              "java",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -348,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google  Translate, Applitools, Monkey Tester",
+            "homepage": null,
             "id": 138041497,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-30T21:27:09Z",
+            "open_issues": 2,
             "owner": "isonic1",
             "repo": "Appium-Native-Crawler",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         },
@@ -364,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demostrates BDD approach with Mobile testing",
+            "homepage": null,
             "id": 24857068,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-03-16T04:47:33Z",
+            "open_issues": 1,
             "owner": "priyankshah217",
             "repo": "AppiumCucumberTest",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
         }
@@ -378,15 +590,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:08:49.574Z",
+    "last_updated": "2026-08-29T04:42:17.981Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful Appium resources.",
+      "homepage": null,
       "id": 64320099,
       "language": null,
+      "license": null,
       "last_commit": "2021-09-28T14:59:54Z",
+      "open_issues": 7,
       "owner": "SrinivasanTarget",
       "repo": "awesome-appium",
-      "stars": 464
+      "stars": 464,
+      "topics": [
+        "appium",
+        "appium-android",
+        "appium-ios",
+        "appium-tests",
+        "appium-tutorials",
+        "awesome-appium",
+        "cloud-solution",
+        "docker-appium",
+        "inspector"
+      ]
     },
     "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
     "enhanced_repository": "enhansome/enhansome-appium",
