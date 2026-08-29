@@ -16,7 +16,8 @@
             "owner": "appium",
             "repo": "python-client",
             "stars": 1839
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T11:02:46Z",
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1280
-          }
+            "stars": 1281
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "serhatbolsu",
             "repo": "robotframework-appiumlibrary",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 18766821,
             "language": "C#",
-            "last_commit": "2026-08-27T20:34:15Z",
+            "last_commit": "2026-08-28T08:43:22Z",
             "owner": "appium",
             "repo": "dotnet-client",
-            "stars": 399
-          }
+            "stars": 398
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "appium",
             "repo": "ruby_lib",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "appium-boneyard",
             "repo": "selenium-objective-c",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "appium-boneyard",
             "repo": "php-client",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         }
       ],
       "title": "Clients"
@@ -127,7 +134,8 @@
             "owner": "appium",
             "repo": "appium-desktop",
             "stars": 4807
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
             "stars": 4260
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "macacajs",
             "repo": "app-inspector",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "mykola-mokhnach",
             "repo": "Appium-iOS-Inspector",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         }
       ],
       "title": "Inspectors"
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-13T08:33:13Z",
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15785
-          }
+            "stars": 15787
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "openstf",
             "repo": "stf-appium-example",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "aws-samples",
             "repo": "aws-device-farm-appium-tests-for-sample-app",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "softsam",
             "repo": "docker-appium",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "aluedeke",
             "repo": "appium-android",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         }
       ],
       "title": "Cloud and Docker Solutions"
@@ -289,7 +306,8 @@
             "owner": "AppiumTestDistribution",
             "repo": "AppiumTestDistribution",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "AppiumTestDistribution",
             "repo": "PageObjectPatternAppium",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "WasiqB",
             "repo": "coteafs-appium",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "isonic1",
             "repo": "Appium-Native-Crawler",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         },
         {
           "node_type": "item",
@@ -349,14 +370,15 @@
             "owner": "priyankshah217",
             "repo": "AppiumCucumberTest",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.574Z"
         }
       ],
       "title": "Test Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:37:22.806Z",
+    "last_updated": "2026-08-29T00:08:49.574Z",
     "original_repository_info": {
       "archived": false,
       "id": 64320099,
