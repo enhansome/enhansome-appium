@@ -15,8 +15,8 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:02:47Z",
-            "open_issues": 25,
+            "last_commit": "2026-08-30T04:13:00Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
             "stars": 1839,
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15793,
+            "stars": 15795,
             "topics": [
               "alibabacloud",
               "android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:55:13.409Z",
+    "last_updated": "2026-08-30T18:49:40.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
@@ -602,7 +602,7 @@
       "open_issues": 7,
       "owner": "SrinivasanTarget",
       "repo": "awesome-appium",
-      "stars": 464,
+      "stars": 463,
       "topics": [
         "appium",
         "appium-android",
