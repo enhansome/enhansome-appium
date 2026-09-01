@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:07:28Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-01T14:54:02Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1839,
+            "stars": 1840,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:03:16Z",
-            "open_issues": 272,
+            "last_commit": "2026-09-01T06:40:38Z",
+            "open_issues": 271,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1281,
@@ -290,18 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Android in docker solution with noVNC supported and video recording",
+            "description": "Android in docker solution with noVNC supported, video recording and mcp server",
             "homepage": null,
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T23:02:47Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-01T15:57:32Z",
+            "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15797,
+            "stars": 15799,
             "topics": [
-              "alibabacloud",
               "android",
               "android-emulator",
               "aws",
@@ -314,12 +313,12 @@
               "genymotion",
               "jenkins",
               "kubernetes",
+              "mcp",
+              "mcp-server",
               "mobile-app",
               "mobile-web",
               "novnc",
-              "saltstack",
               "selenium",
-              "selenium-grid",
               "terraform"
             ]
           },
@@ -337,8 +336,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T23:55:54Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T11:40:38Z",
+            "open_issues": 10,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 671,
@@ -371,7 +370,7 @@
             "open_issues": 6,
             "owner": "openstf",
             "repo": "stf-appium-example",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -590,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:07:11.488Z",
+    "last_updated": "2026-09-01T18:52:08.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
