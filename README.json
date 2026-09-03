@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "appium",
               "python"
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T07:47:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T20:23:30Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -200,7 +200,7 @@
             "open_issues": 132,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4807,
+            "stars": 4806,
             "topics": [
               "appium"
             ]
@@ -299,7 +299,7 @@
             "open_issues": 161,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15802,
+            "stars": 15807,
             "topics": [
               "android",
               "android-emulator",
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:58:05.155Z",
+    "last_updated": "2026-09-03T18:53:37.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
