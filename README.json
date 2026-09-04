@@ -40,7 +40,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T06:40:38Z",
-            "open_issues": 271,
+            "open_issues": 272,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1281,
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T20:23:30Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-04T14:10:36Z",
+            "open_issues": 10,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T09:26:42Z",
+            "last_commit": "2026-09-04T05:33:53Z",
             "open_issues": 161,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15807,
+            "stars": 15820,
             "topics": [
               "android",
               "android-emulator",
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:53:37.897Z",
+    "last_updated": "2026-09-04T18:34:23.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
