@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T14:54:02Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-06T05:31:50Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1841,
+            "stars": 1840,
             "topics": [
               "appium",
               "python"
@@ -299,7 +299,7 @@
             "open_issues": 161,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15827,
+            "stars": 15831,
             "topics": [
               "android",
               "android-emulator",
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:42:40.516Z",
+    "last_updated": "2026-09-06T17:44:50.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
