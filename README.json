@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T06:11:09Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-09T06:59:25Z",
+            "open_issues": 25,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1841,
+            "stars": 1840,
             "topics": [
               "appium",
               "python"
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T07:10:57Z",
+            "last_commit": "2026-09-09T11:09:50Z",
             "open_issues": 161,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15834,
+            "stars": 15837,
             "topics": [
               "android",
               "android-emulator",
@@ -336,8 +336,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T11:40:38Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-09T18:46:54Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 671,
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:59:33.306Z",
+    "last_updated": "2026-09-09T18:52:18.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",

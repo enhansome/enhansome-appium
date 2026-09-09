@@ -6,7 +6,7 @@
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,216 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,490 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Contents
 
@@ -25,11 +25,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,216 |
 
 ## Server
 
-* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 21,936 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-08 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 21,939 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-09 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
-* [Python](https://github.com/appium/python-client) ⭐ 1,841 | 🐛 29 | 🌐 Python | 📅 2026-09-08
+* [Python](https://github.com/appium/python-client) ⭐ 1,840 | 🐛 25 | 🌐 Python | 📅 2026-09-09
 * [Java](https://github.com/appium/java-client) ⭐ 1,281 | 🐛 274 | 🌐 Java | 📅 2026-09-07
 * [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) ⭐ 429 | 🐛 28 | 🌐 Python | 📅 2026-03-10
 * [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 398 | 🐛 9 | 🌐 C# | 📅 2026-09-04
@@ -194,8 +194,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,216 |
 
 ## Cloud and Docker Solutions
 
-* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,834 | 🐛 161 | 🌐 Python | 📅 2026-09-07 - DockerFile for Appium Android.
-* [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 671 | 🐛 10 | 🌐 Shell | 📅 2026-09-01 - DockerFile for Appium Android Real Devices.
+* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,837 | 🐛 161 | 🌐 Python | 📅 2026-09-09 - DockerFile for Appium Android.
+* [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 671 | 🐛 11 | 🌐 Shell | 📅 2026-09-09 - DockerFile for Appium Android Real Devices.
 * [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) ⭐ 110 | 🐛 6 | 🌐 Ruby | 📅 2017-11-22 - Sample Appium tests runs on STF Device Farm.
 * [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) ⭐ 91 | 🐛 17 | 🌐 Java | 📅 2024-02-14 - Sample Appium tests runs on AWS Device Farm.
 * [Appium Docker File](https://github.com/softsam/docker-appium) ⭐ 8 | 🐛 0 | 📅 2015-08-21 - DockerFile for Appium Android.
@@ -239,4 +239,4 @@ To the extent possible under law, [Srinivasan Sekar](https://github.com/Srinivas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
