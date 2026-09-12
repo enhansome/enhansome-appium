@@ -6,7 +6,7 @@
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,106 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,385 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Contents
 
@@ -25,11 +25,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,106 |
 
 ## Server
 
-* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 21,950 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-11 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 21,954 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-12 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
-* [Python](https://github.com/appium/python-client) ⭐ 1,840 | 🐛 23 | 🌐 Python | 📅 2026-09-11
+* [Python](https://github.com/appium/python-client) ⭐ 1,840 | 🐛 22 | 🌐 Python | 📅 2026-09-12
 * [Java](https://github.com/appium/java-client) ⭐ 1,281 | 🐛 274 | 🌐 Java | 📅 2026-09-07
 * [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) ⭐ 429 | 🐛 28 | 🌐 Python | 📅 2026-03-10
 * [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 399 | 🐛 11 | 🌐 C# | 📅 2026-09-11
@@ -239,4 +239,4 @@ To the extent possible under law, [Srinivasan Sekar](https://github.com/Srinivas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
