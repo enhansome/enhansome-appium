@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T11:07:24Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-15T12:57:31Z",
+            "open_issues": 23,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T11:03:05Z",
-            "open_issues": 274,
+            "last_commit": "2026-09-15T07:50:20Z",
+            "open_issues": 269,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1281,
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4260,
+            "stars": 4259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15848,
+            "stars": 15854,
             "topics": [
               "android",
               "android-emulator",
@@ -336,8 +336,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T23:05:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-15T06:28:07Z",
+            "open_issues": 10,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 671,
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:56:41.445Z",
+    "last_updated": "2026-09-15T19:15:52.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
