@@ -40,7 +40,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T08:25:37Z",
-            "open_issues": 270,
+            "open_issues": 271,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1282,
@@ -100,7 +100,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T14:06:56Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 399,
@@ -200,7 +200,7 @@
             "open_issues": 131,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4804,
+            "stars": 4805,
             "topics": [
               "appium"
             ]
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15877,
+            "stars": 15878,
             "topics": [
               "ai-agent",
               "android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:14:57.691Z",
+    "last_updated": "2026-09-24T19:30:42.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
