@@ -15,8 +15,8 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T05:12:35Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-25T11:04:31Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
             "stars": 1842,
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:25:37Z",
-            "open_issues": 271,
+            "last_commit": "2026-09-25T13:25:29Z",
+            "open_issues": 270,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1282,
@@ -99,11 +99,11 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T14:06:56Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-25T19:06:55Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
-            "stars": 399,
+            "stars": 398,
             "topics": [
               "appium",
               "csharp",
@@ -200,7 +200,7 @@
             "open_issues": 131,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4805,
+            "stars": 4804,
             "topics": [
               "appium"
             ]
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4259,
+            "stars": 4258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15878,
+            "stars": 15880,
             "topics": [
               "ai-agent",
               "android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:30:42.776Z",
+    "last_updated": "2026-09-25T19:35:11.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
