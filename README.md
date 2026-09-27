@@ -6,7 +6,7 @@
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,891 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,391 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Contents
 
@@ -25,12 +25,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,891 |
 
 ## Server
 
-* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,010 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-26 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,012 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-27 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
 * [Python](https://github.com/appium/python-client) ⭐ 1,842 | 🐛 24 | 🌐 Python | 📅 2026-09-26
-* [Java](https://github.com/appium/java-client) ⭐ 1,282 | 🐛 270 | 🌐 Java | 📅 2026-09-25
+* [Java](https://github.com/appium/java-client) ⭐ 1,280 | 🐛 271 | 🌐 Java | 📅 2026-09-25
 * [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) ⭐ 429 | 🐛 28 | 🌐 Python | 📅 2026-03-10
 * [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 398 | 🐛 11 | 🌐 C# | 📅 2026-09-25
 * [Ruby](https://github.com/appium/ruby_lib) ⭐ 218 | 🐛 2 | 🌐 Ruby | 📅 2026-09-14
@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,891 |
 
 * [Appium Desktop](https://github.com/appium/appium-desktop) ⚠️ Archived - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
 * [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) ⚠️ Archived - A WebDriver server for iOS that runs inside the Simulator.
-* [app-inspector](https://github.com/macacajs/app-inspector) ⭐ 388 | 🐛 39 | 🌐 JavaScript | 📅 2023-02-06 - Macacajs App Inspector.
+* [app-inspector](https://github.com/macacajs/app-inspector) ⭐ 387 | 🐛 39 | 🌐 JavaScript | 📅 2023-02-06 - Macacajs App Inspector.
 * [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) ⚠️ Archived - The tool for iOS elements location based on the original source of Selendroid Inspector.
 * [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 
@@ -194,10 +194,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,891 |
 
 ## Cloud and Docker Solutions
 
-* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,881 | 🐛 162 | 🌐 Python | 📅 2026-09-21 - DockerFile for Appium Android.
+* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,884 | 🐛 162 | 🌐 Python | 📅 2026-09-21 - DockerFile for Appium Android.
 * [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 672 | 🐛 10 | 🌐 Shell | 📅 2026-09-22 - DockerFile for Appium Android Real Devices.
 * [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) ⭐ 110 | 🐛 6 | 🌐 Ruby | 📅 2017-11-22 - Sample Appium tests runs on STF Device Farm.
-* [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) ⭐ 91 | 🐛 17 | 🌐 Java | 📅 2024-02-14 - Sample Appium tests runs on AWS Device Farm.
+* [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) ⭐ 92 | 🐛 17 | 🌐 Java | 📅 2024-02-14 - Sample Appium tests runs on AWS Device Farm.
 * [Appium Docker File](https://github.com/softsam/docker-appium) ⭐ 8 | 🐛 0 | 📅 2015-08-21 - DockerFile for Appium Android.
 * [Appium Docker File](https://github.com/aluedeke/appium-android) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2014-09-29 - DockerFile for Appium Android.
 * [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
@@ -239,4 +239,4 @@ To the extent possible under law, [Srinivasan Sekar](https://github.com/Srinivas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
