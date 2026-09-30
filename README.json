@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T18:26:22Z",
-            "open_issues": 272,
+            "last_commit": "2026-09-30T18:55:38Z",
+            "open_issues": 271,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1281,
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4258,
+            "stars": 4259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T23:04:00Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-30T07:47:18Z",
+            "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15900,
+            "stars": 15921,
             "topics": [
               "ai-agent",
               "android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:14:48.969Z",
+    "last_updated": "2026-09-30T20:19:29.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
