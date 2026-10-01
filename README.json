@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1842,
+            "stars": 1843,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T18:55:38Z",
-            "open_issues": 271,
+            "last_commit": "2026-10-01T17:26:00Z",
+            "open_issues": 272,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1281,
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T19:06:55Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-30T20:24:07Z",
+            "open_issues": 12,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T07:47:18Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-01T06:45:21Z",
+            "open_issues": 163,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15921,
+            "stars": 15928,
             "topics": [
               "ai-agent",
               "android",
@@ -310,7 +310,6 @@
               "docker",
               "docker-android",
               "emulator",
-              "fastapi",
               "gcp",
               "genymotion",
               "jenkins",
@@ -320,7 +319,8 @@
               "mobile-app",
               "novnc",
               "ollama",
-              "selenium"
+              "selenium",
+              "vllm"
             ]
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:19:29.193Z",
+    "last_updated": "2026-10-01T20:34:07.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
