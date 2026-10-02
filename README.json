@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T20:24:07Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T12:58:18Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -200,7 +200,7 @@
             "open_issues": 131,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4803,
+            "stars": 4802,
             "topics": [
               "appium"
             ]
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T06:45:21Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-02T11:20:25Z",
+            "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15928,
+            "stars": 15931,
             "topics": [
               "ai-agent",
               "android",
@@ -337,8 +337,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T06:34:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-02T08:27:07Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 672,
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:34:07.033Z",
+    "last_updated": "2026-10-02T20:10:17.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
