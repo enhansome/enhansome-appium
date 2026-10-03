@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Python",
-          "description": null,
+          "description": "appium/python-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "Java",
-          "description": null,
+          "description": "appium/java-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "RobotFramework",
-          "description": null,
+          "description": "serhatbolsu/robotframework-appiumlibrary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "C# (.NET)",
-          "description": null,
+          "description": "appium/dotnet-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -100,7 +100,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:58:18Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Ruby",
-          "description": null,
+          "description": "appium/ruby_lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,7 +139,7 @@
         {
           "node_type": "item",
           "title": "Objective C",
-          "description": null,
+          "description": "appium-boneyard/selenium-objective-c",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "PHP",
-          "description": null,
+          "description": "appium-boneyard/php-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15931,
+            "stars": 15933,
             "topics": [
               "ai-agent",
               "android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:10:17.581Z",
+    "last_updated": "2026-10-03T04:33:05.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
