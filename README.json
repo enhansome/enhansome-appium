@@ -39,7 +39,7 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:26:00Z",
+            "last_commit": "2026-10-03T18:45:52Z",
             "open_issues": 272,
             "owner": "appium",
             "repo": "java-client",
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15933,
+            "stars": 15934,
             "topics": [
               "ai-agent",
               "android",
@@ -337,8 +337,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T08:27:07Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-03T07:36:00Z",
+            "open_issues": 10,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 672,
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:05.904Z",
+    "last_updated": "2026-10-03T18:50:20.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
