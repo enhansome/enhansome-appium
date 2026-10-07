@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T16:03:27Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-07T02:01:33Z",
+            "open_issues": 28,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1843,
+            "stars": 1842,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T16:23:49Z",
-            "open_issues": 271,
+            "last_commit": "2026-10-07T20:03:13Z",
+            "open_issues": 268,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1282,
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:58:18Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-07T20:24:21Z",
+            "open_issues": 15,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -200,7 +200,7 @@
             "open_issues": 131,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4802,
+            "stars": 4801,
             "topics": [
               "appium"
             ]
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T23:03:18Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-07T07:23:33Z",
+            "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15943,
+            "stars": 15946,
             "topics": [
               "ai-agent",
               "android",
@@ -337,7 +337,7 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:58:01Z",
+            "last_commit": "2026-10-07T07:30:34Z",
             "open_issues": 10,
             "owner": "appium",
             "repo": "appium-docker-android",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:35:00.631Z",
+    "last_updated": "2026-10-07T20:48:34.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
