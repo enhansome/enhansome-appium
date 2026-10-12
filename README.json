@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1842,
+            "stars": 1843,
             "topics": [
               "appium",
               "python"
@@ -39,7 +39,7 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T18:54:17Z",
+            "last_commit": "2026-10-12T21:53:58Z",
             "open_issues": 267,
             "owner": "appium",
             "repo": "java-client",
@@ -100,7 +100,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T21:04:31Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T08:13:55Z",
+            "last_commit": "2026-10-12T21:31:58Z",
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15959,
+            "stars": 15968,
             "topics": [
               "ai-agent",
               "android",
@@ -341,7 +341,7 @@
             "open_issues": 10,
             "owner": "appium",
             "repo": "appium-docker-android",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "android",
               "appium",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:44:35.831Z",
+    "last_updated": "2026-10-12T22:37:10.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
@@ -602,7 +602,7 @@
       "open_issues": 7,
       "owner": "SrinivasanTarget",
       "repo": "awesome-appium",
-      "stars": 462,
+      "stars": 463,
       "topics": [
         "appium",
         "appium-android",
