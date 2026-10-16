@@ -100,7 +100,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T21:48:56Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -299,7 +299,7 @@
             "open_issues": 163,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15973,
+            "stars": 15979,
             "topics": [
               "ai-agent",
               "android",
@@ -341,7 +341,7 @@
             "open_issues": 11,
             "owner": "appium",
             "repo": "appium-docker-android",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "android",
               "appium",
@@ -457,11 +457,11 @@
             "id": 40982931,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-03-23T18:55:25Z",
+            "last_commit": "2026-10-16T10:36:57Z",
             "open_issues": 45,
             "owner": "AppiumTestDistribution",
             "repo": "AppiumTestDistribution",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "android",
               "appium",
@@ -584,13 +584,34 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
+        },
+        {
+          "node_type": "item",
+          "title": "zosma-qa",
+          "description": "Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero-config QA platform — Playwright, AI agents, and extensible test runners.",
+            "homepage": null,
+            "id": 1187660853,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-03-28T12:29:35Z",
+            "open_issues": 1,
+            "owner": "zosmaai",
+            "repo": "zosma-qa",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T19:02:37.442Z"
         }
       ],
       "title": "Test Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:27:19.977Z",
+    "last_updated": "2026-10-16T19:02:37.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
@@ -598,8 +619,8 @@
       "id": 64320099,
       "language": null,
       "license": null,
-      "last_commit": "2021-09-28T14:59:54Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-16T10:43:25Z",
+      "open_issues": 5,
       "owner": "SrinivasanTarget",
       "repo": "awesome-appium",
       "stars": 463,
@@ -615,7 +636,7 @@
         "inspector"
       ]
     },
-    "original_repository_sha": "2ff155d5e6c23c145a1270f94cde49a82ffdddf9",
+    "original_repository_sha": "0c0cb9d73bc8f2c57c9a3e4d48dd73cd415c12a6",
     "enhanced_repository": "enhansome/enhansome-appium",
     "enhanced_repository_description": null,
     "title": "Awesome Appium with stars"
