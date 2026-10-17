@@ -15,7 +15,7 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T06:06:26Z",
+            "last_commit": "2026-10-17T11:57:43Z",
             "open_issues": 27,
             "owner": "appium",
             "repo": "python-client",
@@ -299,7 +299,7 @@
             "open_issues": 163,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15979,
+            "stars": 15985,
             "topics": [
               "ai-agent",
               "android",
@@ -337,8 +337,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T04:26:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-17T08:21:40Z",
+            "open_issues": 12,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 674,
@@ -601,7 +601,7 @@
             "open_issues": 1,
             "owner": "zosmaai",
             "repo": "zosma-qa",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-10-16T19:02:37.442Z"
@@ -611,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:02:37.442Z",
+    "last_updated": "2026-10-17T17:58:11.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
