@@ -6,7 +6,7 @@
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,873 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,308 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Contents
 
@@ -27,12 +27,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,873 |
 
 ## Server
 
-* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,112 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-20 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,117 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-21 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
 * [Python](https://github.com/appium/python-client) ⭐ 1,844 | 🐛 25 | 🌐 Python | 📅 2026-10-20
-* [Java](https://github.com/appium/java-client) ⭐ 1,283 | 🐛 266 | 🌐 Java | 📅 2026-10-20
+* [Java](https://github.com/appium/java-client) ⭐ 1,284 | 🐛 266 | 🌐 Java | 📅 2026-10-20
 * [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) ⭐ 428 | 🐛 28 | 🌐 Python | 📅 2026-03-10
 * [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 398 | 🐛 18 | 🌐 C# | 📅 2026-10-20
 * [Ruby](https://github.com/appium/ruby_lib) ⭐ 218 | 🐛 1 | 🌐 Ruby | 📅 2026-10-20
@@ -196,7 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,873 |
 
 ## Cloud and Docker Solutions
 
-* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,993 | 🐛 162 | 🌐 Python | 📅 2026-10-18 - DockerFile for Appium Android.
+* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 15,995 | 🐛 162 | 🌐 Python | 📅 2026-10-21 - DockerFile for Appium Android.
 * [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 674 | 🐛 10 | 🌐 Shell | 📅 2026-10-20 - DockerFile for Appium Android Real Devices.
 * [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) ⭐ 110 | 🐛 6 | 🌐 Ruby | 📅 2017-11-22 - Sample Appium tests runs on STF Device Farm.
 * [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) ⭐ 92 | 🐛 17 | 🌐 Java | 📅 2024-02-14 - Sample Appium tests runs on AWS Device Farm.
@@ -218,7 +218,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,873 |
 * [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) ⭐ 1,042 | 🐛 45 | 🌐 Java | 📅 2026-10-16 - Run appium tests in parallel across iOS and Android devices.
 * [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) ⭐ 187 | 🐛 19 | 🌐 JavaScript | 📅 2023-05-10 - Sample Page Object Pattern Framework to use directly.
 * [coteafs-appium](https://github.com/WasiqB/coteafs-appium) ⭐ 148 | 🐛 6 | 🌐 Java | 📅 2022-08-17 - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
-* [Optics](https://github.com/mozarkai/optics-framework) ⭐ 60 | 🐛 78 | 🌐 Python | 📅 2026-10-20 - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
+* [Optics](https://github.com/mozarkai/optics-framework) ⭐ 62 | 🐛 81 | 🌐 Python | 📅 2026-10-21 - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
 * [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) ⭐ 55 | 🐛 2 | 🌐 Ruby | 📅 2019-06-30 - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 * [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) ⭐ 37 | 🐛 1 | 🌐 Java | 📅 2021-03-16 - Sample Appium Cucumber Project.
 * [zosma-qa](https://github.com/zosmaai/zosma-qa) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-28 - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
@@ -253,4 +253,4 @@ To the extent possible under law, [Srinivasan Sekar](https://github.com/Srinivas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

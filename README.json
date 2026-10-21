@@ -43,7 +43,7 @@
             "open_issues": 266,
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "android",
               "appium",
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T21:59:25Z",
+            "last_commit": "2026-10-21T07:08:45Z",
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15993,
+            "stars": 15995,
             "topics": [
               "ai-agent",
               "android",
@@ -555,11 +555,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T02:28:49Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-21T02:47:59Z",
+            "open_issues": 81,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 60,
+            "stars": 62,
             "topics": [
               "android",
               "android-tv",
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:38:33.730Z",
+    "last_updated": "2026-10-21T19:40:36.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
