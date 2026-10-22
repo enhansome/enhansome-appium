@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4263,
+            "stars": 4264,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T07:08:45Z",
+            "last_commit": "2026-10-22T11:00:31Z",
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 15995,
+            "stars": 16000,
             "topics": [
               "ai-agent",
               "android",
@@ -337,8 +337,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T09:19:46Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-21T21:26:17Z",
+            "open_issues": 11,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 674,
@@ -555,11 +555,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T02:47:59Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-22T14:23:19Z",
+            "open_issues": 73,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "android",
               "android-tv",
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:40:36.603Z",
+    "last_updated": "2026-10-22T19:32:50.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
