@@ -15,8 +15,8 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T15:02:40Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-24T17:15:25Z",
+            "open_issues": 24,
             "owner": "appium",
             "repo": "python-client",
             "stars": 1844,
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:58:42Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-24T07:13:39Z",
+            "open_issues": 10,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 397,
@@ -244,7 +244,7 @@
             "open_issues": 39,
             "owner": "macacajs",
             "repo": "app-inspector",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "android",
               "automation",
@@ -299,7 +299,7 @@
             "open_issues": 162,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16004,
+            "stars": 16015,
             "topics": [
               "ai-agent",
               "android",
@@ -555,7 +555,7 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T19:16:47Z",
+            "last_commit": "2026-10-23T20:32:51Z",
             "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:34:00.513Z",
+    "last_updated": "2026-10-24T18:22:45.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
