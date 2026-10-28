@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1844,
+            "stars": 1845,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T20:04:33Z",
-            "open_issues": 269,
+            "last_commit": "2026-10-28T07:27:10Z",
+            "open_issues": 266,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1284,
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T06:21:18Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-28T20:24:17Z",
+            "open_issues": 17,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 397,
@@ -124,7 +124,7 @@
             "id": 8938683,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-10-26T14:39:05Z",
+            "last_commit": "2026-10-28T06:08:09Z",
             "open_issues": 2,
             "owner": "appium",
             "repo": "ruby_lib",
@@ -200,7 +200,7 @@
             "open_issues": 132,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4799,
+            "stars": 4800,
             "topics": [
               "appium"
             ]
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:28:53Z",
+            "last_commit": "2026-10-28T16:46:40Z",
             "open_issues": 159,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16048,
+            "stars": 16050,
             "topics": [
               "ai-agent",
               "android",
@@ -337,8 +337,8 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T12:56:59Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-28T16:45:27Z",
+            "open_issues": 4,
             "owner": "appium",
             "repo": "appium-docker-android",
             "stars": 673,
@@ -500,7 +500,7 @@
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 899,
+            "stars": 901,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -597,11 +597,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T11:59:11Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-28T07:10:57Z",
+            "open_issues": 76,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "android",
               "android-tv",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:15:10.284Z",
+    "last_updated": "2026-10-28T20:35:12.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
