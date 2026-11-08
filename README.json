@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T11:02:33Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "appium",
             "repo": "python-client",
             "stars": 1845,
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4264,
+            "stars": 4265,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -299,7 +299,7 @@
             "open_issues": 158,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16100,
+            "stars": 16107,
             "topics": [
               "ai-agent",
               "android",
@@ -496,11 +496,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T19:18:22Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-08T08:34:10Z",
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 855,
+            "stars": 845,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -597,8 +597,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T18:36:23Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-08T19:40:59Z",
+            "open_issues": 71,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 65,
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:39:56.996Z",
+    "last_updated": "2026-11-08T19:59:24.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
