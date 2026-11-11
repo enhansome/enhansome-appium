@@ -39,11 +39,11 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T14:02:18Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-11T14:25:20Z",
+            "open_issues": 263,
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "android",
               "appium",
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4265,
+            "stars": 4266,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -299,7 +299,7 @@
             "open_issues": 158,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16113,
+            "stars": 16120,
             "topics": [
               "ai-agent",
               "android",
@@ -496,11 +496,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T19:51:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-11T19:07:00Z",
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -597,11 +597,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T10:51:29Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-11T17:22:33Z",
+            "open_issues": 70,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 85,
+            "stars": 94,
             "topics": [
               "android",
               "android-tv",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:26:51.288Z",
+    "last_updated": "2026-11-11T22:18:25.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
