@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T21:01:56Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-14T23:07:59Z",
+            "open_issues": 27,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1844,
+            "stars": 1845,
             "topics": [
               "appium",
               "python"
@@ -39,8 +39,8 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T14:25:20Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-15T19:06:34Z",
+            "open_issues": 261,
             "owner": "appium",
             "repo": "java-client",
             "stars": 1284,
@@ -100,7 +100,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T20:44:10Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 398,
@@ -152,7 +152,7 @@
             "open_issues": 13,
             "owner": "appium-boneyard",
             "repo": "selenium-objective-c",
-            "stars": 81,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4265,
+            "stars": 4263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -299,7 +299,7 @@
             "open_issues": 158,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16135,
+            "stars": 16139,
             "topics": [
               "ai-agent",
               "android",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:08:12.087Z",
+    "last_updated": "2026-11-15T20:36:19.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
@@ -704,10 +704,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-25T20:57:31Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "SrinivasanTarget",
       "repo": "awesome-appium",
-      "stars": 464,
+      "stars": 463,
       "topics": [
         "appium",
         "appium-android",
