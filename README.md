@@ -6,7 +6,7 @@
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,004 | 🐛 104 | 📅 2026-09-02 list thing.
 
 ## Contents
 
@@ -27,15 +27,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 |
 
 ## Server
 
-* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,234 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-17 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+* [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) ⭐ 22,241 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-18 - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
 * [Python](https://github.com/appium/python-client) ⭐ 1,845 | 🐛 27 | 🌐 Python | 📅 2026-11-16
 * [Java](https://github.com/appium/java-client) ⭐ 1,284 | 🐛 264 | 🌐 Java | 📅 2026-11-16
 * [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) ⭐ 428 | 🐛 28 | 🌐 Python | 📅 2026-03-10
-* [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 398 | 🐛 11 | 🌐 C# | 📅 2026-11-13
-* [Ruby](https://github.com/appium/ruby_lib) ⭐ 218 | 🐛 2 | 🌐 Ruby | 📅 2026-11-17
+* [C# (.NET)](https://github.com/appium/appium-dotnet-driver) ⭐ 398 | 🐛 11 | 🌐 C# | 📅 2026-11-18
+* [Ruby](https://github.com/appium/ruby_lib) ⭐ 218 | 🐛 2 | 🌐 Ruby | 📅 2026-11-18
 * [Objective C](https://github.com/appium/selenium-objective-c) ⭐ 80 | 🐛 13 | 🌐 Objective-C | 📅 2016-02-03
 * [PHP](https://github.com/appium/php-client) ⭐ 70 | 🐛 13 | 🌐 PHP | 📅 2018-09-19
 * [JavaScript](http://webdriver.io/)
@@ -44,7 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 |
 
 * [Appium Desktop](https://github.com/appium/appium-desktop) ⚠️ Archived - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
 * [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) ⚠️ Archived - A WebDriver server for iOS that runs inside the Simulator.
-* [app-inspector](https://github.com/macacajs/app-inspector) ⭐ 388 | 🐛 39 | 🌐 JavaScript | 📅 2023-02-06 - Macacajs App Inspector.
+* [app-inspector](https://github.com/macacajs/app-inspector) ⭐ 389 | 🐛 39 | 🌐 JavaScript | 📅 2023-02-06 - Macacajs App Inspector.
 * [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) ⚠️ Archived - The tool for iOS elements location based on the original source of Selendroid Inspector.
 * [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 
@@ -196,8 +196,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 |
 
 ## Cloud and Docker Solutions
 
-* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 16,153 | 🐛 158 | 🌐 Python | 📅 2026-11-17 - DockerFile for Appium Android.
-* [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 674 | 🐛 2 | 🌐 Shell | 📅 2026-11-16 - DockerFile for Appium Android Real Devices.
+* [Appium Docker Images](https://github.com/butomo1989/docker-android) ⭐ 16,162 | 🐛 158 | 🌐 Python | 📅 2026-11-18 - DockerFile for Appium Android.
+* [Official Appium Docker Images](https://github.com/appium/appium-docker-android) ⭐ 673 | 🐛 2 | 🌐 Shell | 📅 2026-11-16 - DockerFile for Appium Android Real Devices.
 * [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) ⭐ 110 | 🐛 6 | 🌐 Ruby | 📅 2017-11-22 - Sample Appium tests runs on STF Device Farm.
 * [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) ⭐ 91 | 🐛 17 | 🌐 Java | 📅 2024-02-14 - Sample Appium tests runs on AWS Device Farm.
 * [Appium Docker File](https://github.com/softsam/docker-appium) ⭐ 8 | 🐛 0 | 📅 2015-08-21 - DockerFile for Appium Android.
@@ -216,10 +216,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 |
 ## Test Frameworks
 
 * [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) ⭐ 1,044 | 🐛 45 | 🌐 Java | 📅 2026-10-16 - Run appium tests in parallel across iOS and Android devices.
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 860 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14 - Natural-language Android and iOS testing through Appium from vostride, with advanced memidex memory and self-improvement from verified runs.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 862 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14 - Natural-language Android and iOS testing through Appium from vostride, with advanced memidex memory and self-improvement from verified runs.
 * [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) ⭐ 186 | 🐛 19 | 🌐 JavaScript | 📅 2023-05-10 - Sample Page Object Pattern Framework to use directly.
 * [coteafs-appium](https://github.com/WasiqB/coteafs-appium) ⭐ 148 | 🐛 6 | 🌐 Java | 📅 2022-08-17 - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
-* [Optics](https://github.com/mozarkai/optics-framework) ⭐ 99 | 🐛 71 | 🌐 Python | 📅 2026-11-17 - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
+* [Optics](https://github.com/mozarkai/optics-framework) ⭐ 100 | 🐛 71 | 🌐 Python | 📅 2026-11-18 - Open-source Python framework that runs Android, iOS, Android TV, Samsung Tizen and LG webOS tests through Appium, written as CSV or YAML keyword steps, with element lookup that falls back from XPath to text, OCR and image matching.
 * [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) ⭐ 55 | 🐛 2 | 🌐 Ruby | 📅 2019-06-30 - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 * [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) ⭐ 37 | 🐛 1 | 🌐 Java | 📅 2021-03-16 - Sample Appium Cucumber Project.
 * [zosma-qa](https://github.com/zosmaai/zosma-qa) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-28 - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
@@ -229,7 +229,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,530 |
 
 Real world style mobile apps designed as practice surfaces for learning Appium and other mobile automation tools.
 
-* [FrontRow](https://github.com/majdukovic/frontrow) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
+* [FrontRow](https://github.com/majdukovic/frontrow) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
 
 ## Community
 
@@ -254,4 +254,4 @@ To the extent possible under law, [Srinivasan Sekar](https://github.com/Srinivas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
