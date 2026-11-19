@@ -15,11 +15,11 @@
             "id": 18525395,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T11:07:48Z",
+            "last_commit": "2026-11-19T11:04:59Z",
             "open_issues": 27,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1845,
+            "stars": 1844,
             "topics": [
               "appium",
               "python"
@@ -43,7 +43,7 @@
             "open_issues": 264,
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1284,
+            "stars": 1282,
             "topics": [
               "android",
               "appium",
@@ -74,7 +74,7 @@
             "open_issues": 28,
             "owner": "serhatbolsu",
             "repo": "robotframework-appiumlibrary",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "appium",
               "library",
@@ -103,7 +103,7 @@
             "open_issues": 11,
             "owner": "appium",
             "repo": "dotnet-client",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "appium",
               "csharp",
@@ -124,7 +124,7 @@
             "id": 8938683,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-11-18T07:59:55Z",
+            "last_commit": "2026-11-19T08:36:20Z",
             "open_issues": 2,
             "owner": "appium",
             "repo": "ruby_lib",
@@ -223,7 +223,7 @@
             "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4262,
+            "stars": 4261,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.574Z"
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T06:53:27Z",
+            "last_commit": "2026-11-19T13:31:07Z",
             "open_issues": 158,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16162,
+            "stars": 16167,
             "topics": [
               "ai-agent",
               "android",
@@ -337,11 +337,11 @@
             "id": 70919152,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T07:34:37Z",
+            "last_commit": "2026-11-19T09:14:55Z",
             "open_issues": 2,
             "owner": "appium",
             "repo": "appium-docker-android",
-            "stars": 673,
+            "stars": 671,
             "topics": [
               "android",
               "appium",
@@ -496,11 +496,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T18:19:57Z",
+            "last_commit": "2026-11-19T21:14:24Z",
             "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 862,
+            "stars": 824,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -597,8 +597,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T21:33:32Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-19T09:14:13Z",
+            "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 100,
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:42:27.814Z",
+    "last_updated": "2026-11-19T22:46:27.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
