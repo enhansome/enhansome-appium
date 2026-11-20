@@ -39,7 +39,7 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T11:02:55Z",
+            "last_commit": "2026-11-20T19:22:03Z",
             "open_issues": 264,
             "owner": "appium",
             "repo": "java-client",
@@ -124,7 +124,7 @@
             "id": 8938683,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-11-19T08:36:20Z",
+            "last_commit": "2026-11-20T05:39:08Z",
             "open_issues": 2,
             "owner": "appium",
             "repo": "ruby_lib",
@@ -299,7 +299,7 @@
             "open_issues": 158,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16167,
+            "stars": 16178,
             "topics": [
               "ai-agent",
               "android",
@@ -341,7 +341,7 @@
             "open_issues": 2,
             "owner": "appium",
             "repo": "appium-docker-android",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "android",
               "appium",
@@ -497,10 +497,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-19T21:14:24Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 824,
+            "stars": 819,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -597,7 +597,7 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T09:14:13Z",
+            "last_commit": "2026-11-20T17:52:49Z",
             "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:46:27.177Z",
+    "last_updated": "2026-11-20T22:22:27.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
