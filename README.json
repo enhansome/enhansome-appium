@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "appium",
             "repo": "python-client",
-            "stars": 1844,
+            "stars": 1843,
             "topics": [
               "appium",
               "python"
@@ -39,11 +39,11 @@
             "id": 18454064,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T11:04:31Z",
-            "open_issues": 261,
+            "last_commit": "2026-11-24T12:05:31Z",
+            "open_issues": 260,
             "owner": "appium",
             "repo": "java-client",
-            "stars": 1282,
+            "stars": 1283,
             "topics": [
               "android",
               "appium",
@@ -99,8 +99,8 @@
             "id": 18766821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T05:14:37Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-24T06:29:20Z",
+            "open_issues": 14,
             "owner": "appium",
             "repo": "dotnet-client",
             "stars": 397,
@@ -200,7 +200,7 @@
             "open_issues": 132,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4795,
+            "stars": 4794,
             "topics": [
               "appium"
             ]
@@ -295,11 +295,11 @@
             "id": 77145066,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T00:03:56Z",
-            "open_issues": 160,
+            "last_commit": "2026-11-25T00:03:50Z",
+            "open_issues": 159,
             "owner": "budtmo",
             "repo": "docker-android",
-            "stars": 16199,
+            "stars": 16201,
             "topics": [
               "ai-agent",
               "android",
@@ -318,8 +318,8 @@
               "mcp-server",
               "mobile-app",
               "novnc",
+              "nvidia",
               "ollama",
-              "selenium",
               "vllm"
             ]
           },
@@ -496,11 +496,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T11:33:56Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-24T10:15:21Z",
+            "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:36:21.076Z",
+    "last_updated": "2026-11-25T00:08:57.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Appium resources.",
